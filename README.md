@@ -1,16 +1,64 @@
-## Hi there 👋
+🧑🏻‍💻Davi Aguilar 
 
-<!--
-**DaviAguilar07/DaviAguilar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor de Software`**
 
-Here are some ideas to get you started:
+ Me chamo Davi Aguilar, tenho 18 anos, sou natural de Minas Gerais- Belo Horizonte e estou cursando Engenharia de Software na Estácio (estou no primeiro semestre). Gosto muito de tecnologia e busco constantemente aprendizado e experiência.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<p align="left">
+    <a href="https://github.com/DaviAguilar?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/DaviAguilar?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/DaviAguilar07?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/DaviAguilar07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img 
+    alt="HTML"
+    height="30"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+  /> 
+  <img 
+    alt="CSS"
+    height="30"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+  />
+  <img 
+    alt="C"
+    height="30"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+  />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DaviAguilar07&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAguilar07&theme=dark&layout=compact&custom_title=Tecnologias"
+  />
+</p>
+
