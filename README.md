@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
- Me chamo Davi Aguilar, tenho 18 anos, sou natural de Minas Gerais- Belo Horizonte e estou cursando Engenharia de Software na Estácio (estou no primeiro semestre). Gosto muito de tecnologia e busco constantemente aprendizado e experiência.  
+ Me chamo Davi Aguilar, tenho 18 anos, sou natural de Minas Gerais- Belo Horizonte e estou cursando Engenharia de Software na Estácio. Gosto muito de tecnologia e busco constantemente aprendizado e experiência.  
 
 
 
