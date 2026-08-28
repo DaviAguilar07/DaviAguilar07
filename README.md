@@ -47,4 +47,10 @@
     width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
   />
+  <img 
+    alt="Python"
+    height="30"
+    width="40px" 
+    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
+  />
 </p>
