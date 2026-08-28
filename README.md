@@ -49,7 +49,7 @@
   />
   <img 
     alt="Python"
-    height="40"
+    height="35"
     width="40px" 
     src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
   />
