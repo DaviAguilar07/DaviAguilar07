@@ -4,21 +4,6 @@
 
  Me chamo Davi Aguilar, tenho 19 anos, sou natural de Minas Gerais- Belo Horizonte e estou cursando Engenharia de Software na Anhanguera. Gosto muito de tecnologia e busco constantemente aprendizado e experiência.  
 
-
-
-
-<p align="left">
-    <a href="https://github.com/DaviAguilar?tab=repositories&sort=stargazers">
-        <img 
-    <a href="https://github.com/DaviAguilar07?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DaviAguilar07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
